@@ -5,6 +5,7 @@ fn main() {
     std::io::stdin().read_line(&mut user_input).unwrap();
 
     let file_path = user_input.trim();
+    let poo
 
     let mut highest_cals: i32 = 0;
     let mut second_highest_cals: i32 = 0;
